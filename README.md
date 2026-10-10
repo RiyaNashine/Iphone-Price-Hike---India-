@@ -32,6 +32,10 @@ This project measures how big these hikes were, which model was hit hardest, and
 ## Charts
 - **iPhone Price Hike: Before vs After**: old and new price side by side for each model
 - **% Price Increase by Model**: percentage hike for each model
+- ![Chart 1](Iphone%20price%20hike%20pngs/Screenshot%202026-10-10%20123112.png)
+-![Chart 2](Iphone%20price%20hike%20pngs/Screenshot%202026-10-10%20123145.png)
+-![Chart 3](Iphone%20price%20hike%20pngs/Screenshot%202026-10-10%20123159.png)
+-![Chart 4](Iphone%20price%20hike%20pngs/Screenshot%202026-10-10%20123210.png)
 
 ## Approach
 - **Data:** prices collected from news coverage (91mobiles, Free Press Journal, North Desk, Paid Free Droid), Apple India / GSMArena for official prices, and Wikipedia for price-change dates. The Excel file also has the iPhone 18 launch prices on a second sheet.
